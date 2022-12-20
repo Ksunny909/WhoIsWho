@@ -1,0 +1,148 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Фотостудия INKPHOTO</title>
+	<link rel="stylesheet" href="~/css/normalize.css">
+	<link rel="stylesheet" href="~/css/slick.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css">
+	<link rel="stylesheet" href="~/css/style.css">
+</head>
+<body> 
+	<nav class="navbar">
+		<div class="container">
+			<div class="navbar-block">
+				<div class="navbar__logo">
+					<img src="img/11.jpg" alt="Logo">
+				</div>
+				<div class="navbar__info">
+					<div class="navbar__contacts">
+						<a href="#" class="nav__link" >Главная</a>
+						<a href="#services" class="nav__link" >Услуги</a>
+						<a href="#portfolio" class="nav__link" >Портфолио</a>
+					
+						<a href="#contact" class="nav__link">Контакты</a>
+						<a href="#booking" class="nav__link">Бронь</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</nav>
+	<main>
+		<section>
+			@RenderBody();
+		</section>
+	</main>
+			
+
+	<footer class="footer">
+		
+		<div class="contacts-block">
+			<div class="contacts">
+						<span class="contacts-list__icon">
+							<img src="~/img/footer/map.png" alt="">
+						</span>
+						<span class="contacts-list__text">г. Москва <br>
+							ул. Ленина, д. 10, <br>
+							корпус 2, оф. 308 <br>
+						</span>
+						<span class="contacts-list__icon">
+							<img src="~/img/footer/clock.png" alt="">
+						</span>
+						<span class="contacts-list__text">Режим работы: <br> с 9:00 до 18:00</span>
+						<span class="contacts-list__icon">
+							<img src="~/img/footer/phone.png" alt="">
+						</span>
+						<span class="contacts-list__text">Телефон: <br> <a href="tel:+7(495)42-251-31"> +7 (495) 42-251-31</a></span>
+				
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<!-- создаем модальное окно -->
+	<div class="modal" id="modal">
+		<div class="modal-dialog">
+			<button class="modal-dialog__close" id="close">&times;</button>
+			<h4 class="modal-dialog__title">Вспывающее окно</h4>
+		</div>
+	</div>
+
+	
+
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+		integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+	<script src="~/js/modal.js"></script>
+	<script src="~/js/slick.min.js"></script>
+	<script src="~/js/wow.min.js"></script>
+	<script src="~/js/jquery.validate.min.js"></script>
+	<script src="~/js/jquery.maskedinput.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.0.0/index.global.min.js"></script>
+	
+	<script>
+		// инициализация wow.js
+		new WOW().init();
+		
+		$(document).ready(function(){
+			// валидация формы
+			
+			$('#brif-form').validate({
+				// errorClass: "invalid",
+				// errorElement: "div",
+				rules: {
+					username: {
+						required: true,
+						minlength: 2
+					},
+					phone: {
+						required: true,
+					},
+					email: {
+						required: true,
+						email: true
+					},
+					data:{
+						required: true,
+					}
+				},
+				messages:{
+					username: {
+						required: "Укажите имя",
+						minlength: jQuery.validator.format("Осталось символов: {0}")
+					},
+					phone: "Укажите телефон",
+					email: "Укажите email",
+					data: "Выберите дату"
+				}
+			});
+			// Маска для телефона
+			$('.phone').mask('8 (999) 999-99-99')
+			// скрипт слайдера
+			$('.slider').slick({
+				slidesToShow: 3,
+				slidesToScroll: 1,
+				prevArrow: $('.arrows__left'),
+				nextArrow: $('.arrows__right'),
+				responsive:[
+					{
+						breakpoint: 768,
+						settings: {
+							slidesToShow: 1,
+							slidesToScroll: 1
+						}
+					},
+					{
+						breakpoint: 1200,
+						settings: {
+							slidesToShow: 2,
+							slidesToScroll: 1
+						}
+					}
+				]
+			});
+		});
+	</script>
+</body>
+</html>

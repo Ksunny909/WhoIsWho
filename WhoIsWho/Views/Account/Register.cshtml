@@ -1,0 +1,13 @@
+﻿@model WhoIsWho.Models.RegisterModel
+
+<main>
+    <section>
+        @using(Html.BeginForm("Register", "Account", FormMethod.Post))
+        {
+            @Html.TextBoxFor(model => model.Email)
+            @Html.TextBoxFor(model => model.Password)
+            @Html.TextBoxFor(model => model.PasswordConfirmation)
+            <button type="submit">Sign Up</button>
+        }
+    </section>
+</main>

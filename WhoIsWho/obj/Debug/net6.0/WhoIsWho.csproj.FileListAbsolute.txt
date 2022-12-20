@@ -1,0 +1,269 @@
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\appsettings.Development.json
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\appsettings.json
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.staticwebassets.runtime.json
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.exe
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.deps.json
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.runtimeconfig.json
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.pdb
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\AutoMapper.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Azure.Core.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Azure.Identity.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Humanizer.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.csproj.AssemblyReference.cache
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.AssemblyInfoInputs.cache
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.AssemblyInfo.cs
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.csproj.CoreCompileInputs.cache
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.MvcApplicationPartsAssemblyInfo.cache
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.RazorAssemblyInfo.cache
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.RazorAssemblyInfo.cs
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\staticwebassets.build.json
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\staticwebassets.development.json
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\scopedcss\bundle\WhoIsWho.styles.css
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\scopedcss\projectbundle\WhoIsWho.bundle.scp.css
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.csproj.CopyComplete
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.dll
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\refint\WhoIsWho.dll
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.pdb
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.genruntimeconfig.cache
+D:\Program Files\WhoIsWho\WhoIsWho\obj\Debug\net6.0\ref\WhoIsWho.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.CodeDom.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Text.Json.dll
+D:\Program Files\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\appsettings.json
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.staticwebassets.runtime.json
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.exe
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.deps.json
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.runtimeconfig.json
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\ref\WhoIsWho.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.pdb
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.csproj.AssemblyReference.cache
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.AssemblyInfoInputs.cache
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.AssemblyInfo.cs
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.csproj.CoreCompileInputs.cache
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.RazorAssemblyInfo.cache
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.RazorAssemblyInfo.cs
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\scopedcss\bundle\WhoIsWho.styles.css
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\scopedcss\projectbundle\WhoIsWho.bundle.scp.css
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.csproj.CopyComplete
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\ref\WhoIsWho.dll
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.pdb
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.genruntimeconfig.cache
+C:\Users\tomsk\Downloads\WhoIsWho\WhoIsWho\WhoIsWho\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\appsettings.Development.json
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\appsettings.json
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.staticwebassets.runtime.json
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.exe
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.deps.json
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.runtimeconfig.json
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\WhoIsWho.pdb
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\AutoMapper.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Azure.Core.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Azure.Identity.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Humanizer.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.CodeDom.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Memory.Data.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Text.Json.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.csproj.AssemblyReference.cache
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.GeneratedMSBuildEditorConfig.editorconfig
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.AssemblyInfoInputs.cache
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.AssemblyInfo.cs
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.csproj.CoreCompileInputs.cache
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.MvcApplicationPartsAssemblyInfo.cache
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.RazorAssemblyInfo.cache
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.RazorAssemblyInfo.cs
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\staticwebassets.build.json
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\staticwebassets.development.json
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\scopedcss\bundle\WhoIsWho.styles.css
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\scopedcss\projectbundle\WhoIsWho.bundle.scp.css
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.csproj.CopyComplete
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\refint\WhoIsWho.dll
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.pdb
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\WhoIsWho.genruntimeconfig.cache
+D:\вуз\3курс\Web\курсач\WhoIsWho\WhoIsWho\obj\Debug\net6.0\ref\WhoIsWho.dll

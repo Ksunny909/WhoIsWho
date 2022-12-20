@@ -1,0 +1,12 @@
+﻿@model WhoIsWho.Models.LoginModel
+<main>
+    <section>
+        @using(Html.BeginForm("Login", "Account", FormMethod.Post))
+        {
+            @Html.TextBoxFor(model => model.Email)
+            @Html.TextBoxFor(model => model.Password)
+
+            <button type="submit">Sign in</button>
+        }
+    </section>
+</main>

@@ -1,0 +1,232 @@
+@model WhoIsWho.Models.PostBookingModel
+@{
+    var errors = TempData["Errors"] as List<string> ?? new List<string>();
+}
+<main>
+        <section class="section sliderr">
+            <div class="container">
+                <div class="slider">
+                    <div class="slider__item"><img class="slider__image wow flipInX" src="img/portfolio/3.png" alt="нет"></div>
+                    <div class="slider__item"><img class="slider__image wow flipInX" data-wow-delay="0.1s" src="img/portfolio/2.png" alt="картинок"></div>
+                    <div class="slider__item"><img class="slider__image wow flipInX" data-wow-delay="0.2s" src="img/portfolio/1.png" alt="печаль"></div>
+                    <div class="slider__item"><img class="slider__image" src="img/portfolio/4.png" alt="-"></div>
+                    <div class="slider__item"><img class="slider__image" src="img/portfolio/5.png" alt="беда"></div>
+                </div>
+                <div class="arrows slider__arrows">
+                    <div class="arrows__left">
+                        <img src="img/portfolio/right-arrow — копия.png" alt="">
+                    </div>
+                    <div class="arrows__right">
+                        <img src="img/portfolio/right-arrow.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <a name="services"></a>
+        <section class="section services">
+            <div class="container">
+                <div class="textcols">
+                    <div class="textcols-item">
+                        <h3 class="textcols__title">Свадьба</h3>
+                        Фотосъемка свадьбы, полный день
+                        <b>30 000 – 40 000 ₽</b>
+                        <br>
+                        Фотосъемка свадьбы, 1 час
+                        <b>от 4 000 ₽</b>
+                        <br>
+                        <b>Normal</b>
+                        Съёмка до 10 часов. 400 — 1000 фотографий + цветокор
+                        <b>30 000 ₽</b>
+                        <br>
+                        <b>Stress</b>
+                        Фото + видео съёмка до 10 часов. Видеоклип длительностью от 3 до 5 минут. Тизер длительностью до 1 минуты. Фильм
+                        длительностью от 1 до 2 часов. Исходный отснятый материал. 400 — 1000 фотографий. Цветокоррекция всех фотогафий.
+                        <b>60 000 ₽</b>
+                        <br>
+                        <b>Easy</b>
+                        Съёмка до 5 часов. 200 — 500 фотографий. Цветокоррекция всех фотографий.
+                        <b>20 000 ₽</b>
+                    </div>
+                    <div class="textcols-item">
+                        <h3 class="textcols__title">Семья</h3>
+                        Семейная фотосъемка, 2 часа
+                        <b>5 000 ₽</b>
+                        <br>
+                        Семейная фотосъемка, 1 час
+                        <b>2 500 – 3 000 ₽</b>
+                        <br>
+                        Фотокнига (дополнительно)
+                        <b>5 000 ₽</b>
+                        <br>
+                        Семейная фотосъемка, 3 часа
+                        <b>7 500 ₽</b>
+                    </div>
+                    <div class="textcols-item">
+                        <h3 class="textcols__title">Личное</h3>
+                        Фотосъемка в студии, 1 час
+                        <b>2 500 ₽</b>
+                        <br>
+                        Фотосъемкана выезде, 1 час
+                        <b>2 500 ₽</b>
+                        <br>
+                        Фотосъемка в студии, 2 часа
+                        <b>5 000 ₽</b>
+                        <br>
+                        Фотосъемкана выезде, 2 часа
+                        <b>5 000 ₽</b>
+                        <br>
+                        Фотосъемка в студии, 3 часа
+                        <b>7 500 ₽</b>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <p><a name="portfolio"></a></p>
+        <section class="section price">
+            <div class="container">
+                <div class="cards">
+                    <div class="card price__card wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="card__image">
+                            <img src="img/price/2.png" alt="" style="display: block">
+                        </div>
+                        <div class="card__text">
+                            <a href="Calendar" class="card__link" target="_blank">Свадебные фотосессии</a>
+                            <h4 class="card__title">Фотограф Алексей</h4>
+
+                        </div>
+                    </div>
+                    <div class="card price__card wow fadeInUp" data-wow-delay="0.15s">
+                        <div class="card__image">
+                            <img src="img/price/1.png" alt="" style="display: block">
+                        </div>
+                        <div class="card__text">
+                            <a href="Portfolio2.cshtml" class="card__link" target="_blank">Семейные фотосессии</a>
+                            <h4 class="card__title">Фотограф Ольга</h4>
+                        </div>
+                    </div>
+                    <div class="card price__card wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="card__image">
+                            <img src="img/price/3.png" alt="" style="display: block">
+                        </div>
+                        <div class="card__text">
+                            <a href="Portfolio1" class="card__link" target="_blank">Личные фотосессии</a>
+                            <h4 class="card__title">Фотограф Сергей</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <a name="contact"></a>
+        <section class="section contact">
+            <div class="container">
+                <div class="textcols">
+                    <div class="textcols-item">
+                        <h3 class="textcols__title">Алексей</h3>
+                        <div class="contact__image">
+                            <img src="img/contact/11.jpg" alt="">
+                        </div>
+                        <div class="textcols-text">
+                            Здравствуйте, меня зовут Алексей, и я свадебный фотограф. Моя главная цель – поймать искренние и живые эмоции,
+                            сохранить лучшие моменты! Первое знакомство с парой происходит на предварительной встрече, где мы составляем тайминг
+                            свадебного дня – от сборов до банкета. Выбор локации для прогулки происходит заранее, обговаривается дополнительный
+                            вариант в случае погодных изменений. Во время подготовки к съемке я всегда ищу индивидуальный подход к каждой паре. Для
+                            легкой свадебной фотосъемки в большинстве случаев идет В ПОДАРОК предсвадебная фотосессия, на которой дополнительно
+                            отрабатывается позировка, так что вы будете чувствовать себя непринужденно. Фотографии обрабатываются до 30 дней после
+                            церемонии.
+                        </div>
+                        <span class="contacts-list__text">Телефон:  <a class="contacts-tel" href="tel:+7(495)42-251-31"> +7 (495) 42-251-31</a></span>
+                        <span class="contacts-list__text">e-mail: <a class="contacts-tel" href="mailto:kvs34@tpu.ru">kvs34@tpu.ru"</a></span>
+                    </div>
+                    <div class="textcols-item">
+                        <h3 class="textcols__title">Ольга</h3>
+                        <div class="contact__image">
+                            <img src="img/contact/2.jpg" alt="">
+                        </div>
+                        <div class="textcols-text">
+                            Фотографии про вас и для вас! Помогаю запоминать события! Читаю бизнес-литературу! Главная ценность моей работы — в
+                            скорости отдачи и высоком качестве готовых фотографий! Сделаю для вас атмосферные и теплые картинки.
+                            Профессиональный фотограф, занимаюсь фотографией более четырех лет. Делаю выездные фотосессии, студийные
+                            фотосессии, детские фотосессии, семейные фотосессии. Оказываю услуги фотографа на банкетах, праздниках,
+                            делаю репортажную фотосъёмку.
+                        </div>
+                        <span class="contacts-list__text">Телефон: <a class="contacts-tel" href="tel:+7(495)42-251-31"> +7 (495) 42-251-31</a></span>
+                        <span class="contacts-list__text">e-mail: <a class="contacts-tel" href="mailto:kvs34@tpu.ru">kvs34@tpu.ru"</a></span>
+                    </div>
+                    <div class="textcols-item">
+                        <h3 class="textcols__title">Сергей</h3>
+                        <div class="contact__image">
+                            <img src="img/contact/3.jpg" alt="">
+                        </div>
+                        <div class="textcols-text">
+                            Фотограф, работаю с 2005г. В 2011г. получил диплом государственного образца с присвоением квалификации "Фототехник" по
+                            специальности "Техника и искусство фотографии". В основном занимаюсь портретной фотографией. Делаю выездные фотосессии,
+                            студийные фотосессии, фотосессии в деловом стиле, для соц. сетей.  С
+                            2009г делаю школьные фотоальбомы, выпускные школьные фотокниги и фотокниги для выпускников детских садов. Образцы
+                            фотокниг можно посмотреть на сайте и в фотостудии.
+                        </div>
+                        <span class="contacts-list__text">Телефон: <a class="contacts-tel" href="tel:+7(495)42-251-31"> +7 (495) 42-251-31</a></span>
+                        <span class="contacts-list__text">e-mail: <a class="contacts-tel" href="mailto:kvs34@tpu.ru">kvs34@tpu.ru"</a></span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <p><a name="booking"></a></p>
+    @foreach(var err in errors)
+    {
+        <h1>@err</h1>
+    }
+    <section class="section brif">
+            <div class="container">
+                <div class="brif-block">
+                    <div class="interview brif__interview">
+                        <h3 class="interview__title">Запечатлеем прекрасные моменты вместе с Вами!</h3>
+                        <span class="interview__subtitle">Оставьте заявку и мы подберем для вас фотоссесию </span>
+                        <ul class="interview-list">
+                            <li class="interview-list__item">
+                                <span class="interview-list__counter">1</span>
+                                <span class="interview-list__text">Дата съемки</span>
+                            </li>
+                            <li class="interview-list__item">
+                                <span class="interview-list__counter">2</span>
+                                <span class="interview-list__text">Тип фотосессии</span>
+                            </li>
+                            <li class="interview-list__item">
+                                <span class="interview-list__counter">3</span>
+                                <span class="interview-list__text">Место проведения фотосессии</span>
+                            </li>
+                            <li class="interview-list__item">
+                                <span class="interview-list__counter">4</span>
+                                <span class="interview-list__text">Личные предпочтения</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="form brif__form">
+                        <h3 class="form__title">Оставьте заявку <br>мы обязательно с вами свяжемся</h3>
+                        @using(Html.BeginForm("Add", "Home", new {}, FormMethod.Post, false, new {}))
+                        {
+                            @Html.TextBoxFor(model => model.PhoneNumber, new { placeholder = "Ваш телефон", @class = "input brif__input phone"})
+                           // @Html.TextBoxFor(model => model.Date, new { placeholder = "Дата", @class = "input brif__input"})
+                              
+                           /* <div class="editor-label">
+                            @Html.LabelFor(model => model.Date)
+                            </div>*/
+                             //<div class="editor-field">
+                                 @Html.EditorFor(model => model.Date, new { placeholder = "Дата", @class = "input brif__input"})
+                                // @Html.ValidationMessageFor(model => model.Date)
+                            // </div>
+                        
+                            @Html.TextBoxFor(model => model.Text, new {placeholder = "пожелания", @class = "input brif__input"})
+
+                            <button type="submit" class="button offer__button wow pulse " data-wow-duration="2s" data-wow-iteration="10">Оставить заявку</button>
+                        }
+                    </div>
+                </div>
+            </div>
+        </section>
+
+</main>
